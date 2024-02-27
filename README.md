@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-// ###<p align="left"> <img src="https://komarev.com/ghpvc/?username=faraji-zarouali&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
-
 <a href="https://github.com/Forstman1?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraji-zarouali&theme=dark"/>
 </a>
