@@ -11,7 +11,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  2.  -->
 
 ### **Languages and Tools:**  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,react,vite,php,symfony,laravel,git,github,vscode,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,php,symfony,laravel,js,react,vite,git,github,vscode,postman,stackoverflow&perline=13)](#)
 
 ### Github Stats ⚡
 
