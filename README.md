@@ -17,7 +17,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 
  [![Zarou's github stats](https://github-readme-stats.vercel.app/api/?username=faraji-zarouali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](#)
  
- [![Top languages](https://github-readme-stats.vercel.app/api?username=faraji-zarouali&line_height=40&show_icons=true&theme=dark)](#)
+ [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faraji-zarouali&theme=dark)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&fontAlignY=62&reversal=false&section=footer"/>
