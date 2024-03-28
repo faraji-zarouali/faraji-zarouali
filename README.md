@@ -15,7 +15,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 
 ### Github Stats ⚡
 
- [![Zarou's github stats](https://bad-apple-github-readme.vercel.app/api?username=faraji-zarouali&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ [![Zarou's github stats](https://github-readme-stats.vercel.app/api/?username=faraji-zarouali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=faraji-zarouali&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
